@@ -73,6 +73,10 @@ This article is about the basics about math symbols in Latex.
 
 ### Sums and Integrals
 
+
+
+$\int a^4 tan^2t sec^3t dt$
+
 | Symbol                                     | Script                                   |
 | :----------------------------------------- | :--------------------------------------- |
 | $\sum_{i=1}^{10} t_i$                      | \sum_{i=1}^{10} t_i                      |
@@ -82,7 +86,7 @@ This article is about the basics about math symbols in Latex.
 | $\sum$                                     | \sum                                     |
 | $\prod$                                    | \prod                                    |
 | $\coprod$                                  | \coprod                                  |
-|$\implies$|\implies|
+| $\implies$                                 | \implies                                 |
 | $\bigoplus$                                | \bigoplus                                |
 | $\bigotimes$                               | \bigotimes                               |
 | $\bigodot$                                 | \bigodot                                 |
@@ -91,9 +95,9 @@ This article is about the basics about math symbols in Latex.
 | $\biguplus$                                | \biguplus                                |
 | $\bigsqcup$                                | \bigsqcup                                |
 | $\bigvee$                                  | \bigvee                                  |
-|$\vee$|\vee|
+| $\vee$                                     | \vee                                     |
 | $\bigwedge$                                | \bigwedge                                |
-|$\wedge$|\wedge|
+| $\wedge$                                   | \wedge                                   |
 | $\int$                                     | \int                                     |
 | $\oint$                                    | \oint                                    |
 | $\iint$                                    | \iint                                    |
