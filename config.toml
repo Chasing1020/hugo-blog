@@ -18,7 +18,7 @@ hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否�
 paginate = 8                                              # 首页每页显示的文章数
 paginatePath = "page"
 disqusShortname = ""      # disqus_shortname
-googleAnalytics = "G-CDYPFNXQDZ"      # UA-XXXXXXXX-X
+googleAnalytics = ""      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
 [author]                  # essential                     # 必需
@@ -70,7 +70,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   since = "2021"            # Site creation time          # 站点建立时间
   # use public git repo url to link lastmod git commit, enableGitInfo should be true.
   # 指定 git 仓库地址，可以生成指向最近更新的 git commit 的链接，需要将 enableGitInfo 设置成 true.
-  gitRepo = "https://github.com/Chasing1020/Chasing1020.github.io"
+  gitRepo = "https://github.com/Chasing1020/hugo-blog"
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
   logoTitle = "Chasing's blog"        # default: the title value    # 默认值: 上面设置的title值
@@ -114,7 +114,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 
   livereUID = ""            # LiveRe UID                  # 来必力
 
-  baiduPush = true        # baidu push                  # 百度
+  baiduPush = false        # baidu push                  # 百度
   baiduAnalytics = ""      # Baidu Analytics
   baiduVerification = ""   # Baidu Verification
   googleVerification = ""  # Google Verification         # 谷歌

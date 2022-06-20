@@ -6,16 +6,19 @@ priority : 0.6
 menu: "main"
 weight: 60
 ---
-# The following links are from my friends, you can also send me your blog links in any means you like.
 
-# And I would appreciate it if you could add my blog to your links.
+## The following links are from my friends, you can also send me your blog links in any means you like.
 
-	Name: Chasing
-	Url: https://chasing1020.github.io
-	Avatar: https://z3.ax1x.com/2021/10/26/5olW4O.jpg
-	Description: if err != nil
+## And I would appreciate it if you could add my blog to your links.
 
-# For some reason, the blog is not yet able to display personal avatars.
+```yaml
+  Name: Chasing
+  Url: https://chasing1020.github.io
+  Avatar: https://z3.ax1x.com/2021/10/26/5olW4O.jpg
+  Description: if err != nil
+```
+
+## For some reason, the blog is not yet able to display personal avatars.
 
 
 
@@ -33,7 +36,7 @@ weight: 60
 
 >    name: luminolt
 >
->    link: https://luminolt.cn/friends/
+>    link: https://luminolt.cn/#about
 
 >    name: Lemmon412
 >
@@ -108,6 +111,7 @@ weight: 60
 >
 >    link: https://halfrost.com/
 
+
 >    name: chenxiao8
 >    
 >    link: https://chenxiao8.github.io/
@@ -116,6 +120,7 @@ weight: 60
 >    name: lemonhx
 >    
 >    link: https://lemonhx.moe/#/
+
 
 >    name: duan
 >    
@@ -126,7 +131,13 @@ weight: 60
 >    
 >    link: https://lonely-square.github.io/
 
-### 
+
+>    name: inlighting
+>
+>    link: https://www.inlighting.org/
+
+
+--- 
 
 ## * To be continued ...
 

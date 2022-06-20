@@ -10,7 +10,6 @@ keywords: ["top"]
 description: ""
 tags: ['Note']
 categories: ['Note']
-weight: 1
 ---
 
 As of the time I am writing this post, I have been studying computer science for a year and a half. I have started to organize and share my own computer science related study materials and routes.
