@@ -1,5 +1,5 @@
 ---
-title: "🔍"
+title: "Search"
 layout: "search"
 priority : 0.1
 menu: "main"
